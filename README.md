@@ -18,3 +18,8 @@
 <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/carrusel">Carrusel</li>
 <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/click-count">Click Counter</li>
 <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/rotating-sticks">Rotating Sticks</li>
+<br>
+<br>
+<br>
+<h2>💡Social Networks💡</h2>
+ <li><a href="https://www.linkedin.com/in/erick-fernando-d%C3%ADaz-centeno-programador-frontend-junior/">LinkedIn</li>
