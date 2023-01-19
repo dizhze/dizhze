@@ -8,3 +8,12 @@
 <li>CSS</li>
 <li>JavaScript</li>
 <li><strong>React</strong>(currently)</li>
+<br>
+<br>
+<h2>🚀My Proyects🚀</h2>
+<h3><strong>💻 HTML y CSS</strong></h3>
+<h3><strong>💻 JavaScript Vanilla</strong></h3>
+<li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/Color-change">Color Changer</a></li>
+<li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/calculadora">Calculator</li>
+<li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/carrusel">Carrusel</li>
+<li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/click-count">Click Counter</li>
