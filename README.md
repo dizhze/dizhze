@@ -1,6 +1,6 @@
 # 👋 Hi there, Erick Fernando Díaz Centeno
 
-## Soy estudiante y desarrollador Front-end Junior
+## 📖 Soy estudiante y desarrollador Front-end Junior
 <!--
 **dizhze/dizhze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
