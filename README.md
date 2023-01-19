@@ -1,8 +1,10 @@
-# 👋 Hi there, i´m Erick
-![Banner](https://github.com/ediaz-ce/ediaz-ce/blob/main/banner.png "Optional title")
-## 📖 I am a student
-🔍 I am really curious about the programming world and i love keeping in continius learning and actualization
-
-## I am interested in web development
-### 💻 Actually i´m studying react.
-### 📚 My skills are:
+<h1>👋 Hi there, i´m Erick</h1>
+<img src='https://github.com/ediaz-ce/ediaz-ce/blob/main/banner.png'>
+<h3>💡This repository will be used to upload my projects and advances in the world of programming💡</h3>
+<h2>📖 I am a student</h2>
+<h2>I am interested in web development</h2>
+<h3>📚 My skills are:</h3>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li><strong>React</strong>(currently)</li>
