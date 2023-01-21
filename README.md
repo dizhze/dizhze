@@ -18,6 +18,7 @@
 <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/carrusel">Carrusel</li>
 <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/click-count">Click Counter</li>
 <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/rotating-sticks">Rotating Sticks</li>
+ <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/navbar">Navbar</li>
 <br>
 <br>
 <br>
