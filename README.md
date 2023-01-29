@@ -21,6 +21,7 @@
 <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/navbar">Navbar</li>
 <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/sidebar">Sidebar</li>
  <li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/modal-page">Modal Page</li>
+<li><a href="https://github.com/ediaz-ce/JavaScript-Vanilla/tree/main/question">Frequently Asked Questions</li>
 <br>
 <br>
 <br>
