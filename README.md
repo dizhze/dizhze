@@ -1,8 +1,8 @@
 <h1>👋 Hi there, i´m Erick</h1>
-<img src='https://github.com/ediaz-ce/ediaz-ce/blob/main/banner.png'>
-<h3>💡This repository will be used to upload my projects and advances in the world of programming💡</h3>
 <h2>📖 I am a student</h2>
-<h2>I am interested in web development</h2>
+<h2>🚀 Cursus 42</h2>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfb0vfvr000608l3yax664zq/stats?cursusId=21&coalitionId=65" alt="ediaz--c's 42 stats" /></a>
+<h3>Proyectos</h3>
 <h3>📚 My skills are:</h3>
 <li>HTML</li>
 <li>CSS</li>
