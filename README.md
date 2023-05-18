@@ -12,3 +12,7 @@
 <br>
 <h2>💡Social Networks💡</h2>
  <li><a href="https://www.linkedin.com/in/erick-fernando-d%C3%ADaz-centeno-programador-frontend-junior/">LinkedIn</li>
+ <br>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ediaz-c&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediaz-c&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
