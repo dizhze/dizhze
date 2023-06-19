@@ -10,6 +10,7 @@
 <li><a href="https://github.com/ediaz-c/Ft_printf">Printf</a></li>
 <li><a href="https://github.com/ediaz-c/so_long">So_long</a></li>
 <li><a href="https://github.com/ediaz-c/push_swap">Push_swap</a></li>
+<li><a href="https://github.com/ediaz-c/pipex">Pipex</a></li>
 <br>
 <h2>💡Social Networks💡</h2>
 <li><a href="https://www.linkedin.com/in/erick-fernando-d%C3%ADaz-centeno-programador-frontend-junior/">LinkedIn</li>
