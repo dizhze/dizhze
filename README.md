@@ -6,8 +6,7 @@
 <li><a href="https://github.com/ediaz-c/libft">Libft </a><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfb0vfvr000608l3yax664zq/project/3017750" alt="ediaz--c's 42 Libft Score" /></a></li>
 <li><a href="https://github.com/ediaz-c/Get_next_line">Get_next_line </a><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfb0vfvr000608l3yax664zq/project/3047323" alt="ediaz--c's 42 get_next_line Score" /></a></li>
 <li><a href="https://github.com/ediaz-c/Ft_printf">Printf </a><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfb0vfvr000608l3yax664zq/project/3049380" alt="ediaz--c's 42 ft_printf Score" /></a></li>
-<li>Born2Beroot</li>
-<li><a href="https://github.com/ediaz-c/Ft_printf">Printf</a></li>
+<li>Born2Beroot <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfb0vfvr000608l3yax664zq/project/3049154" alt="ediaz--c's 42 Born2beroot Score" /></a></li>
 <li><a href="https://github.com/ediaz-c/so_long">So_long</a></li>
 <li><a href="https://github.com/ediaz-c/push_swap">Push_swap</a></li>
 <li><a href="https://github.com/ediaz-c/pipex">Pipex</a></li>
