@@ -1,7 +1,7 @@
-#👋 Hi there, i´m Erick
-##📖 I am a student
-##🚀 Cursus 42
-##Proyectos
+# 👋 Hi there, i´m Erick
+## 📖 I am a student
+## 🚀 Cursus 42
+## Proyectos
 | Proyecto                                                       | Insignia                                                                                    |
 | :---:                                                          |    :----:                                                                                   |
 | [Libft](https://github.com/ediaz-c/libft)                      | ![](https://github.com/ediaz-c/42-project-badges/blob/main/badges/libftm.png)               |
@@ -12,17 +12,8 @@
 | [So_long](https://github.com/ediaz-c/so_long)                  | ![](https://github.com/ediaz-c/42-project-badges/blob/main/badges/so_longm.png)             |
 | [Push_swap](https://github.com/ediaz-c/push_swap)              | ![](https://github.com/ediaz-c/42-project-badges/blob/main/badges/push_swape.png)           |
 | [Philosophers](https://github.com/ediaz-c/philosophers)        | ![](https://github.com/ediaz-c/42-project-badges/blob/main/badges/philosopherse.png)        |
-| [Minishell](https://https://github.com/n-panos/Minishell)  | ![En proceso](https://github.com/ediaz-c/42-project-badges/blob/main/badges/minishelle.png)|
+| [Minishell](https://github.com/n-panos/Minishell)              | ![En proceso](https://github.com/ediaz-c/42-project-badges/blob/main/badges/minishelle.png) |
 
-
-<li><a href="https://github.com/ediaz-c/libft">Libft </a></li>
-<li><a href="https://github.com/ediaz-c/Get_next_line">Get_next_line </a></li>
-<li><a href="https://github.com/ediaz-c/Ft_printf">Printf </a></li>
-<li>Born2Beroot</li>
-<li><a href="https://github.com/ediaz-c/so_long">So_long </a></li>
-<li><a href="https://github.com/ediaz-c/push_swap">Push_swap </a></li>
-<li><a href="https://github.com/ediaz-c/pipex">Pipex </a</li>
-<br>
 <h2>💡Social Networks💡</h2>
 <li><a href="https://www.linkedin.com/in/erick-fernando-d%C3%ADaz-centeno-programador-frontend-junior/">LinkedIn</li>
 <center><hr>
