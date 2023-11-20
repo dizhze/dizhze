@@ -19,7 +19,7 @@
 </p>
 <br>
 <h2>💡Social Networks💡</h2>
-<a href="www.linkedin.com/in/erick-fernando-díaz-centeno"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/erick-fernando-díaz-centeno"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"></a>
 <br>
 <br>
 <div>
