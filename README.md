@@ -54,7 +54,7 @@
     </tr>
     <tr>
       <th>Ft_trascendence</th>
-      <th><img src="https://github.com/ediaz-c/42-project-badges/blob/main/badges/          ft_transcendencee.png"></th>
+      <th><img src="https://github.com/ediaz-c/42-project-badges/blob/main/badges/ft_transcendencee.png"></th>
     </tr>
   </table>
 </details>
